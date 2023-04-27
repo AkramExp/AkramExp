@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AkramExp
-- 👀 I’m interested in Java,DevOps and Web Development
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on WebD 
+- 👀 I’m interested in Java and DevOps
+- 🌱 I’m currently learning DevOps 
 - 📫 Reach me out through my email akram.exp02@gmail.com
 
 <!---
