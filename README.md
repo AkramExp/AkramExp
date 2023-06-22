@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkramExp
-- 👀 I’m interested in Java and DevOps
+- 👀 I’m interested in Python and DevOps
 - 🌱 I’m currently learning DevOps 
 - 📫 Reach me out through my email akram.exp02@gmail.com
 
