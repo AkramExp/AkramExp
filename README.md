@@ -1,4 +1,4 @@
-# 💫 Hello World:
+# 💫 Hello World
 I’m a DevOps fresher looking for an opportunity to apply my skills, I'm learning Python Development as my next skill.
 
 You can reach me out via mail akram.exp02@gmail.com
